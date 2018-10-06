@@ -20,7 +20,7 @@ class Info{
 	}
 }
 
-public class SEF {
+public class G1 {
 
 	public static void main(String args[]) {
 		int arr[] = {2, 5, 2, 8, 5, 6, 8, 8};
