@@ -1,4 +1,4 @@
-package org.crackcode;
+package org.crackcode.arrays;
 
 import java.util.ArrayList;
 import java.util.Collections;
